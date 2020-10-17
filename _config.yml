@@ -1,2 +1,4 @@
-name: TestWebsite
+baseurl: /andrewewang/andrewewang.github.io
+url: https://andrewewang.github.io/
+name: Website
 markdown: kramdown
